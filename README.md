@@ -1,8 +1,12 @@
 # volcafmpatchdecoder
 transcodes wav files of volca fm patches to MIDI Sysex
 
+-Now includes sensing file size to export two 32 patch cartridges for FM2 full sync outputs
+
 # Installation
 Extract executables from zip file and use the one appropriate for your OS
+
+-Precompiled executables are not made for new code
 
 # Usage
 This is a command line application. It reads a wav file and creates an output file with a .syx file ending appended.
